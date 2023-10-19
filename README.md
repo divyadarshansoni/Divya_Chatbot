@@ -61,6 +61,7 @@ Then paste them in the UI
 There are blank spaces in the app for token to be pasted in. Press 'submit and next' to open the chatbot.
 In the chatbot type your query in the space and press send. The Query will be answered by the chatbot acoordingly.
 You can press the 'New Token' for changing of token as token keep changing after about 20 min.
+In case of any kind of error it is expected to start over with new tokens.
 
 ## Requirements
 python --version >= 3.6.13
